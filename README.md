@@ -1,4 +1,4 @@
-# Inventory Management System — Local Setup
+# Kimchuuy Agrivet Supply Inventory Management System 
 
 This project includes a simple MySQL-backed API for `products` (inventory).
 
